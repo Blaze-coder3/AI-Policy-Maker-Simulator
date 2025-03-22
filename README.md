@@ -14,9 +14,9 @@
 ---
 
 ## 📂 Project Structure
-📁 AI-Policy-Simulator/ │── 📜 README.md <- Project documentation
-│── 📜 requirements.txt <- Python dependencies
-│── 📜 policy_simulator.py <- Main Streamlit app
+📁 AI-Policy-Simulator/ │── 📜 README.md <- Project documentation <br>
+│── 📜 requirements.txt <- Python dependencies <br>
+│── 📜 policy_simulator.py <- Main Streamlit app <br>
 │── 📁 uploaded_pdfs/ <- Stores uploaded PDFs
 
 ---
